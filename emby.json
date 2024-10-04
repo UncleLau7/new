@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "nanflix.net",
+        "tv.811861.xyz",
+        "music.awatv.de"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".nanflix.net",
+        ".tv.811861.xyz",
+        ".music.awatv.de"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "nanflix",
+        "811861",
+        "awatv"
+      ]
+    }
+  ]
+}
