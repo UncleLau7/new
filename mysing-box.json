@@ -799,21 +799,21 @@
                 "tag": "singbox_ruleset-instagram",
                 "type": "remote",
                 "format": "binary",
-                "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Instagram/Instagram.srs",
+                "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo/geosite/instagram.srs",
                 "download_detour": "🎯 全球直连"
             },
             {
                 "tag": "singbox_ruleset-Spotify",
                 "type": "remote",
                 "format": "binary",
-                "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Spotify/Spotify.srs",
+                "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo-lite/geosite/spotify.srs",
                 "download_detour": "🎯 全球直连"
             },
             {
                 "tag": "singbox_ruleset-Twitter",
                 "type": "remote",
                 "format": "binary",
-                "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Twitter/Twitter.srs",
+                "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo/geosite/twitter.srs",
                 "download_detour": "🎯 全球直连"
             },
             {
