@@ -796,6 +796,13 @@
                 "download_detour": "🎯 全球直连"
             },
             {
+                "tag": "geosite-telegram",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs",
+                "download_detour": "🎯 全球直连"
+            },
+            {
                 "tag": "singbox_ruleset-instagram",
                 "type": "remote",
                 "format": "binary",
