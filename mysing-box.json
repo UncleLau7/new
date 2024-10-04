@@ -669,10 +669,10 @@
                 "outbound": "🎯 全球直连"
             },
             {
-                "domain_suffix": [
-                    ".nanflix.net",
-                    ".tv.811861.xyz",
-                    ".music.awatv.de"
+                "domain_keyword": [
+                    "nanflix",
+                    "811861",
+                    "awatv"
                 ],
                 "outbound": "👺 emby"
             },
