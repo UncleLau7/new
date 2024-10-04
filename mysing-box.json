@@ -24,7 +24,7 @@
             },
             {
                 "tag": "localDns",
-                "address": "223.5.5.5",
+                "address": "120.196.165.24",
                 "detour": "🎯 全球直连"
             },
             {
@@ -667,6 +667,22 @@
                     "d.metacubex.one"
                 ],
                 "outbound": "🎯 全球直连"
+            },
+            {
+                "domain": [
+                    "nanflix.net",
+                    "tv.811861.xyz",
+                    "music.awatv.de"
+                ],
+                "outbound": "👺 emby"
+            },
+            {
+                "domain_suffix": [
+                    ".nanflix.net",
+                    ".tv.811861.xyz",
+                    ".music.awatv.de"
+                ],
+                "outbound": "👺 emby"
             },
             {
                 "domain_keyword": [
