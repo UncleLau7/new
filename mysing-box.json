@@ -707,10 +707,6 @@
                 "outbound": "📲 Telegram"
             },
             {
-                "rule_set": "singbox_ruleset-emby",
-                "outbound": "👺 emby"
-            },
-            {
                 "rule_set": "singbox_ruleset-instagram",
                 "outbound": "📷 Instagram"
             },
