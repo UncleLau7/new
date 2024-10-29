@@ -5,21 +5,31 @@
       "domain": [
         "nanflix.net",
         "tv.811861.xyz",
-        "music.awatv.de"
+        "music.awatv.de",
+        "z.sfcj.org",
+        "cf.sfcj.org",
+        "emby.awatv.de",
+        "oversea.alphatvapp.top"
       ]
     },
     {
       "domain_suffix": [
         ".nanflix.net",
         ".tv.811861.xyz",
-        ".music.awatv.de"
+        ".music.awatv.de",
+        ".sfcj.org",
+        ".awatv.de",
+        ".alphatvapp.top"
       ]
     },
     {
       "domain_keyword": [
         "nanflix",
         "811861",
-        "awatv"
+        "awatv",
+        "sfcj",
+        "awatv",
+        "alphatvapp"
       ]
     }
   ]
