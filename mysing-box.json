@@ -672,7 +672,8 @@
                 "domain": [
                     "nanflix.net",
                     "tv.811861.xyz",
-                    "music.awatv.de"
+                    "music.awatv.de",
+                    "tanhuatv.site"
                 ],
                 "outbound": "👺 emby"
             },
@@ -680,6 +681,7 @@
                 "domain_suffix": [
                     ".nanflix.net",
                     ".tv.811861.xyz",
+                    ".tanhuatv.site",
                     ".music.awatv.de"
                 ],
                 "outbound": "👺 emby"
@@ -688,6 +690,7 @@
                 "domain_keyword": [
                     "nanflix",
                     "811861",
+                    "tanhuatv",
                     "awatv"
                 ],
                 "outbound": "👺 emby"
