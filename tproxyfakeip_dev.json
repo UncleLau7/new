@@ -103,7 +103,7 @@
    "final": "🐡 漏网之鱼",
    "rules": 
    [
-     {"protocol": "dns"},
+     {"protocol": "dns", "action": "hijack-dns"},
      {"clash_mode": "direct", "outbound": "⛔ 全球直连"},
      {"clash_mode": "global", "outbound": "GLOBAL"},
      {"domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one"], "outbound": "⛔ 全球直连"},
