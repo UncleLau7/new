@@ -129,10 +129,8 @@
     "rule_set": [
       { "tag": "geosite-chat", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-chat-!cn.srs", "download_detour": "⛔ 全球直连" },
       { "tag": "UncleLau7-emby", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://github.com/UncleLau7/new/raw/refs/heads/main/emby.srs", "download_detour": "⛔ 全球直连" },
-      { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "⛔ 全球直连" },
       { "tag": "singbox_ruleset-instagram", "type": "remote", "format": "binary", "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Instagram/Instagram.srs", "download_detour": "⛔ 全球直连" },
       { "tag": "singbox_ruleset-Twitter", "type": "remote", "format": "binary", "url": "https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/Twitter/Twitter.srs", "download_detour": "⛔ 全球直连" },
-      { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "⛔ 全球直连" },
       { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "⛔ 全球直连" },
       { "tag": "geosite-google", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs", "download_detour": "⛔ 全球直连" },
       { "tag": "geosite-github", "type": "remote", "format": "binary", "url": "https://ghp.ci/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/github.srs", "download_detour": "⛔ 全球直连" },
