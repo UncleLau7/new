@@ -20,7 +20,7 @@
                 "address": "tls://8.8.8.8",
                 "address_resolver": "localDns",
                 "address_strategy": "ipv4_only",
-                "detour": "🌌 节点选择"
+                "detour": "🛸 节点选择"
             },
             {
                 "tag": "localDns",
