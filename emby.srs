@@ -1,38 +1,27 @@
-{
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "qichiyu.com",
-        "us.nanflix.net",
-        "emby.ld2j.top",
-        "emby.wenjian.de",
-        "free.28.al",
-        "tanhuatv.site",
-        "movie.emby.blog",
-        "sharepoint.com"
-      ],
-      "domain": [
-        "hka-emby3.aliz.work",
-        "jsq.mooguu.xyz",
-        "hkb-emby.aliz.work",
-        "lite.saturday.video",
-        "emusica.91bp.us.kg",
-        "lite.cn2gias.uk",
-        "music.makifx.com",
-        "music.xxxh.de",
-        "yezi.697758.best",
-        "nanflix.net",
-        "tanhuatv.site",
-        "emby.awatv.de",
-        "alist7.eu.org",
-        "yin.9i9i1.cc",
-        "api.miboby.top"
-      ],
-      "domain_keyword": [
-        "miboby",
-        "alphatvapp"
-      ]
-    }
-  ]
-}
+[
+  { "type": "domain_suffix", "value": "qichiyu.com" },
+  { "type": "domain", "value": "hka-emby3.aliz.work" },
+  { "type": "domain", "value": "jsq.mooguu.xyz" },
+  { "type": "domain", "value": "hkb-emby.aliz.work" },
+  { "type": "domain", "value": "lite.saturday.video" },
+  { "type": "domain", "value": "emusica.91bp.us.kg" },
+  { "type": "domain", "value": "lite.cn2gias.uk" },
+  { "type": "domain", "value": "music.makifx.com" },
+  { "type": "domain", "value": "music.xxxh.de" },
+  { "type": "domain", "value": "yezi.697758.best" },
+  { "type": "domain", "value": "nanflix.net" },
+  { "type": "domain", "value": "tanhuatv.site" },
+  { "type": "domain_suffix", "value": "us.nanflix.net" },
+  { "type": "domain_suffix", "value": "emby.ld2j.top" },
+  { "type": "domain_suffix", "value": "emby.wenjian.de" },
+  { "type": "domain_suffix", "value": "free.28.al" },
+  { "type": "domain_suffix", "value": "tanhuatv.site" },
+  { "type": "domain_suffix", "value": "movie.emby.blog" },
+  { "type": "domain_suffix", "value": "sharepoint.com" },
+  { "type": "domain", "value": "emby.awatv.de" },
+  { "type": "domain", "value": "alist7.eu.org" },
+  { "type": "domain", "value": "yin.9i9i1.cc" },
+  { "type": "domain", "value": "api.miboby.top" },
+  { "type": "domain_keyword", "value": "miboby" },
+  { "type": "domain_keyword", "value": "alphatvapp" }
+]
