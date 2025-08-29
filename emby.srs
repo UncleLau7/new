@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qichiyu.com",
+        "us.nanflix.net",
+        "emby.ld2j.top",
+        "emby.wenjian.de",
+        "free.28.al",
+        "tanhuatv.site",
+        "movie.emby.blog",
+        "sharepoint.com"
+      ],
+      "domain": [
+        "hka-emby3.aliz.work",
+        "jsq.mooguu.xyz",
+        "hkb-emby.aliz.work",
+        "lite.saturday.video",
+        "emusica.91bp.us.kg",
+        "lite.cn2gias.uk",
+        "music.makifx.com",
+        "music.xxxh.de",
+        "yezi.697758.best",
+        "nanflix.net",
+        "tanhuatv.site",
+        "emby.awatv.de",
+        "alist7.eu.org",
+        "yin.9i9i1.cc",
+        "api.miboby.top"
+      ],
+      "domain_keyword": [
+        "miboby",
+        "alphatvapp"
+      ]
+    }
+  ]
+}
